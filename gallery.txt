@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Ellie Richard's Portfolio </title>
+    <meta name="description" content="Ellie Richard's Portfolio">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styleSheet.css">
+    </head>
+    <body id="gallery">
+        <header>
+            <h2>Welcome to my allery!</h2>
+        </header>
+        <nav>
+            <ul>
+                <li><a alt="Homepage" href="#">Homepage</a></li>
+                <li><a alt="gallery" href="#">Gallery</a></li>
+                <li><a alt="Projects" href="#">Projects</a></li>
+                <li><a alt="Education" href="#">Education</a></li>
+                <li><a alt="Book Reviews" href="#">Book Reviews</a></li>
+            </ul>
+        </nav>
+        <div class="g-item">
+            <img src="Richard_E_108_P4_animation.gif" alt="">
+            <p>
+                Design for Media, I painted a background and imported the painting to photoshop. 
+                I then used the timeline feature to create a gif of a ball moving around the space. 
+            </p>
+        </div>
+        <div class="g-item2">
+            <img src="invisibleCities.jpg" alt="">
+            <p>
+                Design for Media, invisible cities project. 
+                I took a reading and invisioned a design based off the reading. 
+                The invisible cities put on a glamourous front but had dark and sneaky secrets. 
+                Created using Adobe Illustrator 
+            </p>
+        </div>
+        <div class="g-item3">
+            <video width="240" height="140" controls>
+                <source src="SFX_Richard.mp4" type="video/mp4">
+              </video>
+            <p>
+                Audio Production and Post, 
+                I removed all sound from the video clip and replaced it using sound effects.
+            </p>
+        </div>
+        <div class="g-item4">
+            <video width="240" height="140" controls>
+                <source src="Richard_Dada-Composite.mp4" type="video/mp4">
+              </video>
+            <p>
+                Dada comosite. 
+                Created using Adobe Photoshop, this is an brief animated night in the museam inspired story.   
+            </p>
+        </div>
+        <div class="g-item5">
+            <img src="Richard_PolygonExerciseJPEG.Final-01.jpg" alt="">
+            <p>
+                Posterized portrait created using Adobe Photoshop.   
+            </p>
+        </div>
+        <div class="g-item6">
+            <img src="richard_scaleFinal.jpg" alt="">
+            <p>
+                Photography photo highlighting scale. Edited using Adobe Bridge and Photoshop.
+            </p>
+        </div>
+        <div class="g-item7">
+            <img src="Richard_posNegFinal copy.jpg" alt="">
+            <p>
+                Photography photo highlighting positive and negative values. 
+                Edited using Adobe Bridge and Photoshop.
+            </p>
+        </div>
+        <div class="g-item8">
+            <img src="Richard_organic_fav1.jpg" alt="">
+            <p>
+                Photography photo highlighting structure and organic properties. 
+                Edited using Adobe Bridge and Photoshop.
+            </p>
+        </div>
+        <div class="g-item9">
+            <img src="streetFac2 copy.jpg" alt="">
+            <p>
+                Street photography final project. 
+                Edited using Adobe Bridge and Photoshop.
+            </p>
+        </div>
+        <div class="g-item10">
+            <img src="streetFav20.jpg" alt="">
+            <p>
+                Street photography final project. 
+                Edited using Adobe Bridge and Photoshop.
+            </p>
+        </div>
+        <div class="g-item11">
+            <video width="240" height="140" controls>
+                <source src="IMG_6835.MOV" type="video/mp4">
+              </video>
+            <p>
+                Game Design, created a redesigned and reimagined version on the game Among Us.
+                Used Figma to produce high fidelity screens and interactions, 
+                this is the trailer video for the redesigned version of the game.
+            </p>
+        </div>
+</html>
