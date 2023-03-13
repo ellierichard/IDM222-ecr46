@@ -63,4 +63,242 @@ letter-spacing: 0.03em;
     transform: skew(-20deg);
 }
 
+/* gallery page */
+.gallery {
+    width: 85%;
+    margin: 0 auto;  
+    background: #375871;  
+}
+.ghead p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 32px;
+    text-align: center;
+    margin-top: 15px;
+    margin-bottom: 45px;
+    margin-left: 25px;
+    margin-right: 25px;
+}
+.g-item {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    margin-bottom: 53px;
+}
+.g-item:last-of-type {
+    margin-bottom: 0;
+}
+.g-item img {
+    width: 100%;
+}
+.g-item p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    text-align: left;
+    margin-left: 8px;
+}
+.g-item2 {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    margin-bottom: 53px;
+}
+.g-item2:last-of-type {
+    margin-bottom: 0;
+}
+.g-item2 img {
+    width: 100%;
+}
+.g-item2 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    text-align: left;
+    margin-left: 8px;
+}
+.g-item3 {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    margin-bottom: 53px;
+}
+.g-item3:last-of-type {
+    margin-bottom: 0;
+}
+.g-item3 video {
+    width: 100%;
+}
+.g-item3 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    text-align: left;
+    margin-left: 8px;
+}
+.g-item4 {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    margin-bottom: 53px;
+}
+.g-item4:last-of-type {
+    margin-bottom: 0;
+}
+.g-item4 video {
+    width: 100%;
+}
+.g-item4 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    text-align: left;
+    margin-left: 8px;
+}
+.g-item5 {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    margin-bottom: 53px;
+}
+.g-item5:last-of-type {
+    margin-bottom: 0;
+}
+.g-item5 img {
+    width: 100%;
+}
+.g-item5 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    text-align: left;
+    margin-left: 8px;
+}
+.g-item6 {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    margin-bottom: 53px;
+}
+.g-item6:last-of-type {
+    margin-bottom: 0;
+}
+.g-item6 img {
+    width: 100%;
+}
+.g-item6 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    text-align: left;
+    margin-left: 8px;
+}
+.g-item7 {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    margin-bottom: 53px;
+}
+.g-item7:last-of-type {
+    margin-bottom: 0;
+}
+.g-item7 img {
+    width: 100%;
+}
+.g-item7 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    text-align: left;
+    margin-left: 8px;
+}
+.g-item8 {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    margin-bottom: 53px;
+}
+.g-item8:last-of-type {
+    margin-bottom: 0;
+}
+.g-item8 img {
+    width: 100%;
+}
+.g-item8 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    text-align: left;
+    margin-left: 8px;
+}
+.g-item9 {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    margin-bottom: 53px;
+}
+.g-item9:last-of-type {
+    margin-bottom: 0;
+}
+.g-item9 img {
+    width: 100%;
+}
+.g-item9 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    text-align: left;
+    margin-left: 8px;
+}
+.g-item10 {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    margin-bottom: 53px;
+}
+.g-item10:last-of-type {
+    margin-bottom: 0;
+}
+.g-item10 img {
+    width: 100%;
+}
+.g-item10 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    text-align: left;
+    margin-left: 8px;
+}
+.g-item11 {
+    display: grid;
+    grid-template-columns: repeat(2, 50%);
+    margin-bottom: 53px;
+}
+.g-item11:last-of-type {
+    margin-bottom: 0;
+}
+.g-item11 video {
+    width: 100%;
+}
+.g-item11 p {
+    font-family: 'Aksara Bali Galang';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 15px;
+    text-align: left;
+    margin-left: 8px;
 
+}
